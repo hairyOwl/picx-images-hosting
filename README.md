@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Welcome to use PicX
 
@@ -7,3 +8,7 @@ PicX is completely open source, and you can use it for free.
 
 If you like it, please give it a star on [GitHub](https://github.com/XPoet/picx).
         
+=======
+# photo
+用于存放笔记图片
+>>>>>>> githubB
